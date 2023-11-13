@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**DividedRanYou/DividedRanYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-# Divided
+# About Me
 
 • 👋 Hi i'm @Divided.
 

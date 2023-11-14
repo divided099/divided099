@@ -2,7 +2,7 @@
 
 • 👋 Hi i'm @Divided.
 
-• 💻 I'm a Python programmer and i'm learning HTML.
+• 💻 I'm a Python programmer and a shit web developer.
 
 • 🌐 Also learning Lua and Mobile app development.
 

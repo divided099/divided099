@@ -4,7 +4,7 @@
 
 • 💻 I'm a Python coder, Doom modder, and a shit web designer.
 
-• 🏳️‍⚧ I hate being a boy, and I'm planning to start HRT as soon as fucking possible, and as of now I'm a high thigh femboy furry :sob::sob:
+• 🏳️‍⚧ I hate being a boy, and I'm planning to start HRT as soon as fucking possible, and as of now I'm a high thigh femboy furry :sob:
 
 • 🎮 Also working on a big Doom mod.
 

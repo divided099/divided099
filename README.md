@@ -1,11 +1,6 @@
 # About Me
 
-• 👋 hi hi! i'm Zayd, but you can call me by whatever you better know me as
-
-• 💻 i'm python coder, doom modder and a silly web designer
-
-• 🎮 also working on a big Doom mod ab me!
-
-• 👾 also developing a Doom2 mod ab Doomguy helping me get a job and my transition
+hi hi! i'm Zayd, but you can call me by whatever you better know me as;
+but i don't really know what to write about myself here and yeah..
 
 ![Screenshot 2024-12-22 at 19 41 43](https://github.com/user-attachments/assets/035d995e-7379-46e1-8cbb-590b09f748eb)

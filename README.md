@@ -1,7 +1,5 @@
 # About Me
 
-![image](https://github.com/user-attachments/assets/6b2b1c09-a026-4cfe-a311-c1dfcfa0d165)
-
 • 👋 hi hi! i'm Zayd, but you can call me by whatever you better know me as
 
 • 💻 i'm python coder, doom modder and a silly web designer

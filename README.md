@@ -1,7 +1,5 @@
 # About Me
 
-![tumblr_bf4d5fd64cb5ea8da95a35bfb3d427b3_6de3d383_1280 Small](https://github.com/user-attachments/assets/e387ce7c-7640-4a36-a235-ed45eecd4eec)
-
 • 👋 hi hi! i'm Zayd, but you can call me by whatever you better know me as
 
 • 💻 i'm python coder, doom modder and a silly web designer

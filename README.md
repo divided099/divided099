@@ -50,6 +50,5 @@ Fun fact: I LOVE CATS!
 
 Showcasing GitHub activity and project highlights:  
 
-![Divided's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-
+![Divided's GitHub stats](https://github-readme-stats.vercel.app/api?username=divided099&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divided099&layout=compact&theme=radical)  

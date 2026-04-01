@@ -47,9 +47,9 @@ Fun fact: I LOVE CATS!
 ---
 ## Contact Me | Open to collaborating on software, games, cybersec, and so much more
 
-- Discord: <img src="https://github.com/user-attachments/assets/78bb1c9d-65aa-437b-981e-bd22595f4a88" width="24" height="24"> `Citra#XXXX`  
-- Email: <img src="https://github.com/user-attachments/assets/a1086194-fca8-4ae2-8173-d4deb7e0f4ae" width="24" height="24"> `CantStopDivided@proton.me`  
-- PGP Public Key:  
+- Discord: `CantStopDivided`  
+- Email: `CantStopDivided@proton.me`  
+- PGP Public Key:
 <details>
   <summary>Click to expand</summary>
 

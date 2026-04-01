@@ -46,7 +46,6 @@ Fun fact: I LOVE CATS!
 
 ---
 ## Contact Me | Open to collaborating on software, games, cybersec, and so much more
-
 - Discord: `CantStopDivided`  
 - Email: `CantStopDivided@proton.me`  
 - PGP Public Key:

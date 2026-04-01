@@ -100,7 +100,7 @@ GTAyKKBkZltVZU+1oCYAZt8vDk9zSpWsJkuUxQW/Eq6f4LupSsrVmj/x4TqexOxH
 HtWqNV40PkFhVRwOgspcLheBdXbzAefqIWG2PtgQujHPWxBa1V5pITN9Yq7fZmRO
 goYBB+P7w7KNorSVmwkxl/53oUrRy5Z8OFiG90qGw6S1azc6JmsTvOntchjmpIfc
 DgX9yr6CDOS0Z/BazS1P3gIVIxVosTy3Y3IcrTIpdg
-==
-=kncV
+===kncV
+
 -----END PGP PUBLIC KEY BLOCK-----
 </details>

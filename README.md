@@ -1,4 +1,4 @@
-**mega ultra neuralink brain chip apple intelligence GROK chatgpt bing search gemini 9000 pro summary:**
+**mega ultra neuralink brain chip apple intelligence GROK chatgpt bing search gemini 9000 pro summary:**\n
 *generating..*
 
 # About Me

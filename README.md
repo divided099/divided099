@@ -8,9 +8,9 @@
 Hi! I'm Divided – a libertarian humanitarian, storyteller, game developer, software developer, game modder, and coding nerd. I create epic experiences with game mechanics, writing, and useful things. Always exploring new tech and pushing the technology of AGI forward for the greater good of humanity. All of my work is coded in Libertarianism and my humanitarian love for the world.
 Fun fact: I LOVE CATS!
 
-## Projects & Contributions
+# Projects & Contributions
 
-### Nyxian
+## Nyxian
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="160" align="left">
 
@@ -29,7 +29,7 @@ Fun fact: I LOVE CATS!
 
 ---
 
-### PhantomLink
+## PhantomLink
 
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="160" align="left">
 
@@ -45,7 +45,7 @@ Fun fact: I LOVE CATS!
 <br clear="left"/>
 
 ---
-## Contact Me | Open to collaborating on various things
+# Contact Me | Open to collaborating on various things
 - Discord: `CantStopDivided`  
 - Email: `CantStopDivided@proton.me`  
 - PGP Public Key:

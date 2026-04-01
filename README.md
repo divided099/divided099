@@ -51,7 +51,8 @@ Fun fact: I LOVE CATS!
 - PGP Public Key:
 <details>
   <summary>Click to expand</summary>
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mQINBGfEDYUBEADYnb5nmxigoFgczPQz7kwORju9epue1pVtT+O7qr2oIshp0ajW
 EWn7IL8G4kdkTIVjc4EuQUQwqCynfDoDm+mekAfbJ8+pwJWv33hzsS0syk9wmw54
 D0ZzAuge0MWVlcuyOPKIZRqCngIvqSuqWWqdZgORNGe9um2oNUosZ52E7aJ7CS4i

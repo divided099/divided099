@@ -32,12 +32,12 @@ Fun fact: I LOVE CATS!
 
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="80" align="left">
 
-  - Contributor to **PhantomLink** – a tactical smartwatch built for security research and offensive/defensive use cases  
-  - Wrist-worn, field-ready device combining portability with powerful wireless tooling  
-  - Multi-radio platform with dual-band WiFi, BLE, Sub-GHz, and 2.4GHz long-range communication  
-  - Built with dual MCUs, USB-OTG, and hardware-level capabilities for advanced interaction and testing  
-  - Designed for reconnaissance, auditing, and experimentation across real-world wireless environments  
-  - Led by @chillypolar
+&nbsp;- Contributor to **PhantomLink** – a tactical smartwatch built for security research and offensive/defensive use cases  
+&nbsp;- Wrist-worn, field-ready device combining portability with powerful wireless tooling  
+&nbsp;- Multi-radio platform with dual-band WiFi, BLE, Sub-GHz, and 2.4GHz long-range communication  
+&nbsp;- Built with dual MCUs, USB-OTG, and hardware-level capabilities for advanced interaction and testing  
+&nbsp;- Designed for reconnaissance, auditing, and experimentation across real-world wireless environments  
+&nbsp;- Led by @chillypolar
 
 [PhantomLink Community](https://discord.gg/phantomlink)
 

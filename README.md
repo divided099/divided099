@@ -1,6 +1,10 @@
+# mega ultra neuralink brain chip apple intelligence GROK chatgpt bing search gemini 9000 pro summary:
+*generating..*
+
 # About Me
 
-I'm a developer and contributor working on projects in the iOS tooling and cybersecurity space.
+Hi! I'm Divided – a libertarian humanitarian, storyteller, game developer, software developer, game modder, and coding nerd. I create epic experiences with game mechanics, writing, and useful things. Always exploring new tech and pushing the technology of AGI forward for the greater good of humanity. All of my work is coded in Libertarianism and my humanitarian love for the world.
+Fun fact: I LOVE CATS!
 
 ## Projects & Contributions
 

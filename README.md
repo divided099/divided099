@@ -4,12 +4,6 @@ I'm a developer and contributor working on projects in the iOS tooling and cyber
 
 ## Projects & Contributions
 
-# About Me
-
-I'm a developer and contributor working on projects in the iOS tooling and cybersecurity space.
-
-## Projects & Contributions
-
 ### Nyxian
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="80" align="left">

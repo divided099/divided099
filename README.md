@@ -30,15 +30,14 @@ Fun fact: I LOVE CATS!
 
 ### PhantomLink
 
-<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="160" align="left">
+<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="80" align="left">
 
-&nbsp;- Contributor to **PhantomLink** – a portable, multi-radio security research device  
-&nbsp;- Combines WiFi, BLE, Sub-GHz, and 2.4GHz ISM capabilities in a single platform  
-&nbsp;- Designed for wireless reconnaissance, auditing, and protocol experimentation  
-&nbsp;- Extensible system supporting custom payloads and user-driven tooling  
-&nbsp;- Backed by a growing community of security researchers, bug bounty hunters, and creators  
-&nbsp;- Commercial Kickstarter project with both closed and selectively open source components
-&nbsp;- Led by @chillypolar
+  - Contributor to **PhantomLink** – a tactical smartwatch built for security research and offensive/defensive use cases  
+  - Wrist-worn, field-ready device combining portability with powerful wireless tooling  
+  - Multi-radio platform with dual-band WiFi, BLE, Sub-GHz, and 2.4GHz long-range communication  
+  - Built with dual MCUs, USB-OTG, and hardware-level capabilities for advanced interaction and testing  
+  - Designed for reconnaissance, auditing, and experimentation across real-world wireless environments  
+  - Led by @chillypolar
 
 [PhantomLink Community](https://discord.gg/phantomlink)
 

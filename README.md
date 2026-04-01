@@ -14,12 +14,12 @@ Fun fact: I LOVE CATS!
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="160" align="left">
 
-   - Contributor to **Nyxian** – an on-device iOS IDE for building native apps directly on iPhone  
-   - Fully offline-capable development environment with an integrated native toolchain  
-   - Supports C, Objective-C, C++, with planned Swift support  
-   - Targets modern iOS versions while remaining usable on unjailbroken devices  
-   - Open source project focused on accessibility and developer freedom  
-   - Led by [@cr4zyengineer](https://github.com/cr4zyengineer) and contributors  
+  - Contributor to **Nyxian** – an on-device iOS IDE for building native apps directly on iPhone  
+- Fully offline-capable development environment with an integrated native toolchain  
+- Supports C, Objective-C, C++, with planned Swift support  
+- Targets modern iOS versions while remaining usable on unjailbroken devices  
+- Open source project focused on accessibility and developer freedom  
+- Led by [@cr4zyengineer](https://github.com/cr4zyengineer)
 
 [Nyxian Repository](https://github.com/ProjectNyxian/Nyxian)  
 ![Nyxian Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)
@@ -37,7 +37,8 @@ Fun fact: I LOVE CATS!
   - Designed for wireless reconnaissance, auditing, and protocol experimentation  
   - Extensible system supporting custom payloads and user-driven tooling  
   - Backed by a growing community of security researchers, bug bounty hunters, and creators  
-  - Commercial Kickstarter project with both closed and selectively open source components  
+  - Commercial Kickstarter project with both closed and selectively open source components
+  - Led by @chillypolar
 
 [PhantomLink Community](https://discord.gg/phantomlink)
 

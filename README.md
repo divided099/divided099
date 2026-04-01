@@ -30,7 +30,7 @@ Fun fact: I LOVE CATS!
 
 ### PhantomLink
 
-<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="80" align="left">
+<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="160" align="left">
 
 &nbsp;- Contributor to **PhantomLink** – a tactical smartwatch built for security research and offensive/defensive use cases  
 &nbsp;- Wrist-worn, field-ready device combining portability with powerful wireless tooling  

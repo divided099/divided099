@@ -12,7 +12,7 @@ Fun fact: I LOVE CATS!
 
 ### Nyxian
 
-<img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="80" align="left">
+<img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="160" align="left">
 
 - Contributor to **Nyxian** – an on-device iOS IDE for building native apps directly on iPhone  
 - Fully offline-capable development environment with an integrated native toolchain  
@@ -30,7 +30,7 @@ Fun fact: I LOVE CATS!
 
 ### PhantomLink
 
-<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="80" align="left">
+<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="160" align="left">
 
 - Contributor to **PhantomLink** – a portable, multi-radio security research device  
 - Combines WiFi, BLE, Sub-GHz, and 2.4GHz ISM capabilities in a single platform  

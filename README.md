@@ -22,6 +22,7 @@ Fun fact: I LOVE CATS!
 &nbsp;- Led by [@cr4zyengineer](https://github.com/cr4zyengineer)
 
 [Nyxian Repository](https://github.com/ProjectNyxian/Nyxian)  
+
 ![Nyxian Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)
 
 <br clear="left"/>

@@ -13,10 +13,11 @@ Fun fact: I LOVE CATS!
 ### 📱 Nyxian
 <table width="100%">
 <tr>
-<td width="140" height="160" valign="top">
+<td width="140" valign="top">
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120" style="border-radius:8px"/>
+<img src="https://via.placeholder.com/1x200/00000000/00000000" height="200" width="1"/>
 </td>
-<td valign="top" style="min-height:160px">
+<td valign="top">
 
 **On-device iOS IDE for building native apps directly on iPhone**
 

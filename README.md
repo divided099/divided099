@@ -10,15 +10,13 @@ Fun fact: I LOVE CATS!
 
 # Projects & Contributions
 
----
-
 ### 📱 Nyxian
-<table>
+<table width="100%">
 <tr>
-<td width="140">
+<td width="140" height="160" valign="top">
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120" style="border-radius:8px"/>
 </td>
-<td>
+<td valign="top" style="min-height:160px">
 
 **On-device iOS IDE for building native apps directly on iPhone**
 
@@ -38,12 +36,12 @@ Fun fact: I LOVE CATS!
 ---
 
 ### ⌚ PhantomLink
-<table>
+<table width="100%">
 <tr>
-<td width="140">
+<td width="140" height="160" valign="top">
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120" style="border-radius:8px"/>
 </td>
-<td>
+<td valign="top" style="min-height:160px">
 
 **Tactical smartwatch built for security research and offensive/defensive use cases**
 

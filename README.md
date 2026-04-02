@@ -10,14 +10,15 @@ Fun fact: I LOVE CATS!
 
 # Projects & Contributions
 
-### 📱 Nyxian
-<table width="100%">
+---
+
+## 📱 Nyxian
+<table>
 <tr>
-<td width="140" valign="top">
+<td width="140">
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120" style="border-radius:8px"/>
-<img src="https://via.placeholder.com/1x200/00000000/00000000" height="200" width="1"/>
 </td>
-<td valign="top">
+<td>
 
 **On-device iOS IDE for building native apps directly on iPhone**
 
@@ -36,13 +37,13 @@ Fun fact: I LOVE CATS!
 
 ---
 
-### ⌚ PhantomLink
-<table width="100%">
+## ⌚ PhantomLink
+<table>
 <tr>
-<td width="140" height="160" valign="top">
+<td width="140">
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120" style="border-radius:8px"/>
 </td>
-<td valign="top" style="min-height:160px">
+<td>
 
 **Tactical smartwatch built for security research and offensive/defensive use cases**
 
@@ -66,6 +67,7 @@ Fun fact: I LOVE CATS!
 <details>
   <summary>Click to expand</summary>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 
 mQINBGfEDYUBEADYnb5nmxigoFgczPQz7kwORju9epue1pVtT+O7qr2oIshp0ajW
 EWn7IL8G4kdkTIVjc4EuQUQwqCynfDoDm+mekAfbJ8+pwJWv33hzsS0syk9wmw54

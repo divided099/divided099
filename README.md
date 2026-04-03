@@ -13,19 +13,22 @@ Fun fact: I LOVE CATS!
 ---
 
 ## 📱 Nyxian
+**Open source IDE to develop native code iOS apps and tools on unjailbroken iOS**
+*Part of the Nyxian Developer team – an on-device iOS IDE for building native apps directly on iPhone*
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120"/>
 
-**On-device iOS IDE for building native apps directly on iPhone**
-
 - Fully offline with an integrated native toolchain
-- Supports C, Objective-C, C++ — Swift support planned
-- Works on unjailbroken devices, targets modern iOS
-- Open source, focused on accessibility and developer freedom
+- Supports C, Objective-C, C++
+- Works on non-jailbroken devices, targets modern iOS
+- Supports Compiling, linking and signing code
+- Supports Syscall Handling
+- Supports Sub processsing
 - Led by [@cr4zyengineer](https://github.com/cr4zyengineer)
 
 [![Repo](https://img.shields.io/badge/GitHub-Nyxian-181717?logo=github)](https://github.com/ProjectNyxian/Nyxian)
 ![Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)
+![Website](https://nyxian.app/img/icon/dark.png)](https://nyxian.app/)
 
 ---
 

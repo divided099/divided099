@@ -17,12 +17,16 @@ Fun fact: I LOVE CATS!
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120"/>
 
-- Fully offline with an integrated native toolchain
-- Supports C, Objective-C, C++
+- Fully offline iOS development running on iOS
+- Natively supports C, Objective-C, and C++ 
 - Works on non-jailbroken devices, targets modern iOS
 - Supports compiling, linking, and code signing
-- Supports Syscall Handling
-- Supports Sub processsing
+- Supports syscall handling and subprocessing
+- Turns your phone into a fully capable native app build system
+- No computer required, just your iPhone and your a badass developer
+- Brings native iOS development to devices never meant to support it 
+- Probably shouldn’t exist, but it does
+- Breaks the traditional iOS development workflow entirely
 - Led by Frida ([@cr4zyengineer](https://github.com/cr4zyengineer))
 
 [![Repo](https://img.shields.io/badge/GitHub-Nyxian-181717?logo=github)](https://github.com/ProjectNyxian/Nyxian)
@@ -33,14 +37,21 @@ Fun fact: I LOVE CATS!
 ---
 
 ## ⌚ PhantomLink - Developer & Community Admin
-**Tactical smartwatch built for security research and offensive/defensive use cases**
+**A tactical smartwatch, multi-radio security research device**
 
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120"/>
 
-- Wrist-worn, field-ready with powerful wireless tooling
-- Multi-radio: dual-band WiFi, BLE, Sub-GHz, 2.4GHz long-range
-- Dual MCUs, USB-OTG, hardware-level interaction and testing
-- Designed for recon, auditing, and real-world wireless experimentation
+- Wrist-worn, field-ready device designed for real-world operations  
+- Built for wireless reconnaissance, auditing, and protocol experimentation  
+- Combines WiFi, BLE, Sub-GHz, and 2.4GHz ISM capabilities in a single platform  
+- Multi-radio system with dual-band WiFi, BLE, Sub-GHz, and long-range communication  
+- Dual MCU architecture enabling advanced hardware-level interaction and testing  
+- Supports custom payloads, scripts, and user-driven tooling  
+- Capable of scanning, analyzing, and interacting with surrounding wireless environments  
+- Designed for rapid deployment in dynamic and unpredictable scenarios  
+- Compact form factor with capabilities typically reserved for full-scale hardware rigs  
+- Backed by cybersecurity researchers and content creators
+- Yes, it runs Doom
 - Led by @chillypolar
 
 [![Community](https://img.shields.io/badge/Discord-PhantomLink-5865F2?logo=discord&logoColor=white)](https://discord.gg/phantomlink)

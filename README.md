@@ -12,7 +12,7 @@ Fun fact: I LOVE CATS!
 
 ---
 
-## 📱 Nyxian - Developer & Contributor
+## 📱 Nyxian - Developer
 **Open source IDE to develop native code iOS apps and tools on unjailbroken iOS**
 
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120"/>
@@ -32,11 +32,10 @@ Fun fact: I LOVE CATS!
 
 ---
 
-## ⌚ PhantomLink
+## ⌚ PhantomLink - Developer & Community Admin
+**Tactical smartwatch built for security research and offensive/defensive use cases**
 
 <img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120"/>
-
-**Tactical smartwatch built for security research and offensive/defensive use cases**
 
 - Wrist-worn, field-ready with powerful wireless tooling
 - Multi-radio: dual-band WiFi, BLE, Sub-GHz, 2.4GHz long-range

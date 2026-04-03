@@ -45,11 +45,11 @@ Fun fact: I LOVE CATS!
 
 ---
 # Contact Me | Open to collaborating on various things
-- Discord: `CantStopDivided`  
-- Email: `CantStopDivided@proton.me`  
-- PGP Public Key:
+- my Discord: `CantStopDivided`  
+- my Email: `CantStopDivided@proton.me`  
+
 <details>
-  <summary>Click to expand</summary>
+  <summary>my PGP Public Key</summary>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 

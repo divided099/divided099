@@ -30,12 +30,8 @@ Fun fact: I LOVE CATS!
 ---
 
 ## ⌚ PhantomLink
-<table>
-<tr>
-<td width="140">
-<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120" style="border-radius:8px"/>
-</td>
-<td>
+
+<img src="https://github.com/user-attachments/assets/588be40b-ddb0-4fbc-b21d-30b5fa738b19" width="120"/>
 
 **Tactical smartwatch built for security research and offensive/defensive use cases**
 
@@ -46,10 +42,6 @@ Fun fact: I LOVE CATS!
 - Led by @chillypolar
 
 [![Community](https://img.shields.io/badge/Discord-PhantomLink-5865F2?logo=discord&logoColor=white)](https://discord.gg/phantomlink)
-
-</td>
-</tr>
-</table>
 
 ---
 # Contact Me | Open to collaborating on various things

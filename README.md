@@ -18,7 +18,7 @@ Fun fact: I LOVE CATS!
 <img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120"/>
 
 - Fully offline iOS development running on iOS
-- Natively supports C, Objective-C, and C++ 
+- Natively supports C, Objective-C, and C++, and Swift
 - Works on non-jailbroken devices, targets modern iOS
 - Supports compiling, linking, and code signing
 - Supports syscall handling and subprocessing

@@ -23,7 +23,7 @@ Fun fact: I LOVE CATS!
 - Supports Compiling, linking and signing code
 - Supports Syscall Handling
 - Supports Sub processsing
-- Led by Frida ([@cr4zyengineer](https://github.com/cr4zyengineer)
+- Led by Frida ([@cr4zyengineer](https://github.com/cr4zyengineer))
 
 [![Repo](https://img.shields.io/badge/GitHub-Nyxian-181717?logo=github)](https://github.com/ProjectNyxian/Nyxian)
 ![Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)

@@ -45,7 +45,7 @@ Fun fact: I LOVE CATS!
 
 ---
 # Contact Me | Open to collaborating on various things
-- my Discord: `CantStopDivided`  
+- my Discord: `cantstopdivided`  
 - my Email: `CantStopDivided@proton.me`  
 
 <details>

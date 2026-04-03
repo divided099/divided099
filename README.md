@@ -13,12 +13,8 @@ Fun fact: I LOVE CATS!
 ---
 
 ## 📱 Nyxian
-<table>
-<tr>
-<td width="140">
-<img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120" style="border-radius:8px"/>
-</td>
-<td>
+
+<img src="https://github.com/user-attachments/assets/ed3616f7-3457-460f-8876-30fd565ce222" width="120"/>
 
 **On-device iOS IDE for building native apps directly on iPhone**
 
@@ -30,10 +26,6 @@ Fun fact: I LOVE CATS!
 
 [![Repo](https://img.shields.io/badge/GitHub-Nyxian-181717?logo=github)](https://github.com/ProjectNyxian/Nyxian)
 ![Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)
-
-</td>
-</tr>
-</table>
 
 ---
 

@@ -20,7 +20,7 @@ Fun fact: I LOVE CATS!
 - Fully offline with an integrated native toolchain
 - Supports C, Objective-C, C++
 - Works on non-jailbroken devices, targets modern iOS
-- Supports Compiling, linking and signing code
+- Supports compiling, linking, and code signing
 - Supports Syscall Handling
 - Supports Sub processsing
 - Led by Frida ([@cr4zyengineer](https://github.com/cr4zyengineer))

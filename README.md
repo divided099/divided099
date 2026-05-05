@@ -32,7 +32,7 @@ Fun fact: I LOVE CATS!
 [![Repo](https://img.shields.io/badge/GitHub-Nyxian-181717?logo=github)](https://github.com/ProjectNyxian/Nyxian)
 ![Stars](https://img.shields.io/github/stars/ProjectNyxian/Nyxian?style=flat)
 
-![Nyxian Website](https://nyxian.app/)
+link "https://nyxian.app/"[]
 
 ---
 

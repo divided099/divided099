@@ -56,7 +56,7 @@ Fun fact: I LOVE CATS!
 
 [![Community](https://img.shields.io/badge/Discord-PhantomLink-5865F2?logo=discord&logoColor=white)](https://discord.gg/phantomlink)
 
---
+---
 # Contact Me | Open to collaborating on various things
 - my Discord: `cantstopdivided`  
 - my Email: `CantStopDivided@proton.me`  

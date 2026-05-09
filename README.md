@@ -3,8 +3,7 @@
 
 *generating..*
 
-## About Me
----
+# About Me
 
 Hi! I'm Divided – a libertarian humanitarian, storyteller, game developer, software developer, game modder, and coding nerd. I create epic experiences with game mechanics, writing, and useful things. Always exploring new tech and pushing the technology of AGI forward for the greater good of humanity. All of my work is coded in Libertarianism and my humanitarian love for the world.
 Fun fact: I LOVE CATS!
@@ -58,8 +57,7 @@ Fun fact: I LOVE CATS!
 
 [![Community](https://img.shields.io/badge/Discord-PhantomLink-5865F2?logo=discord&logoColor=white)](https://discord.gg/phantomlink)
 
----
-## Contact Me | Open to collaborating on various things
+# Contact Me | Open to collaborating on various things
 - my Discord: `cantstopdivided`  
 - my Email: `CantStopDivided@proton.me`  
 

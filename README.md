@@ -10,8 +10,6 @@ Fun fact: I LOVE CATS!
 
 # Projects & Contributions
 
----
-
 ## 📱 Nyxian - Developer
 **Open source IDE to develop native code iOS apps and tools on unjailbroken iOS**
 

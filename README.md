@@ -1,5 +1,5 @@
 # Contact Me
-- my Discord: `cantstopdivided`  
+Discord: `cantstopdivided`  
 
 <details>
   <summary>my PGP Public Key</summary>
